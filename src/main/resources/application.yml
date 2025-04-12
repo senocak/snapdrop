@@ -1,0 +1,6 @@
+server:
+  port: 8085
+spring:
+  websocket:
+    max-text-message-size: 65536
+    max-binary-message-size: 65536
